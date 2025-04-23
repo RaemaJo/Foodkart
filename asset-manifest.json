@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/foodkart/static/css/main.8353512a.css",
-    "main.js": "/foodkart/static/js/main.6b3296bc.js",
-    "index.html": "/foodkart/index.html",
-    "main.8353512a.css.map": "/foodkart/static/css/main.8353512a.css.map",
-    "main.6b3296bc.js.map": "/foodkart/static/js/main.6b3296bc.js.map"
+    "main.css": "/Foodkart/static/css/main.8353512a.css",
+    "main.js": "/Foodkart/static/js/main.6b3296bc.js",
+    "index.html": "/Foodkart/index.html",
+    "main.8353512a.css.map": "/Foodkart/static/css/main.8353512a.css.map",
+    "main.6b3296bc.js.map": "/Foodkart/static/js/main.6b3296bc.js.map"
   },
   "entrypoints": [
     "static/css/main.8353512a.css",
